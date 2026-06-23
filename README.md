@@ -1,5 +1,5 @@
 # 💫 About Me:
-enhancing my skills on ml and other cs cores<br>kindly studying in NIT silchar electrical engineering (2025-29)<br>focusing on learning new programming languages and tools <br>also keen intrested in developing new projects based on cs background and also an electronics enthusiast<br>
+curently studying in NIT silchar electrical engineering (2025-29)<br>focusing on learning and creating new programming languages and tools <br> keen intrested in developing new projects <br>
 
 
 ## 🌐 Socials:
