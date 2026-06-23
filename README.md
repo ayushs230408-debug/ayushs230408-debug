@@ -1,5 +1,5 @@
 # 💫 About Me:
-curently studying in NIT silchar electrical engineering (2025-29)<br>focusing on learning and creating new programming languages and tools <br> keen intrested in developing new projects <br>
+curently studying in NIT silchar electrical engineering (2025-29)<br>focusing on learning new programming languages and tools <br> keen intrested in developing new projects <br>
 
 
 ## 🌐 Socials:
